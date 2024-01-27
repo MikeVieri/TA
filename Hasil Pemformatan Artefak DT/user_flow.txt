@@ -1,0 +1,142 @@
+User Flow:
+
+#Profile
+
+-User ingin melakukan Login:
+1. Buka Aplikasi Mental  
+2. Pilih bagian Profile 
+3. Pilih login 
+4. Maukkan Username dan Password 
+
+-User ingin melakukan Sign up 
+1. Buka Aplikasi Mental Health 
+2. Pilih bagian Profile 
+3. Pilih Sign Up
+4. Isi form Profile 
+5. Isi Username 
+(6.) Jika user mengisi username yang sama dengan yang sudah pernah dibuat, maka akan kembali ke tahap 5, jika tidak, maka ke tahap selanjutnya 
+7. Isi Password
+8. Isi ulang Password
+
+-User ingin keluar dari profil
+1. Buka Aplikasi Mental Health  
+2. Pilih bagian Profile 
+3. Pilih Logout
+(4.) Jika user tidak yakin untuk keluar, kembali ke tahap sebelumnya, Jika yakin, ke tahapan selanjutnya 
+5. Tekan "Yes"
+
+-User ingin melihat My Profile 
+1. Buka Aplikasi Mental Health 
+2. Pilih bagian Profile
+3. Pilih bagian My Profile
+
+-User ingin memperbaharui profile mereka
+1. Buka Aplikasi Mental Health
+2. Pilih bagian Profile
+3. Pilih bagian My Profle 
+4. Pilih update Profle
+5. Pilih bagian yang ingin diperbaharui
+6. Masukkan Perubahan baru
+7. Tekan Save
+(8.) Jika User tidak yakin untuk memperbaharui profile, kembali ke tahap 6, Jika yakin, lanjut ke tahap selanjutnya 
+9. Tekan "Yes"
+
+##Tugas
+
+-User ingin Masuk ke menu Tugas
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+
+-User ingin melihat Daftar Tugas
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih Daftar Tugas
+
+-User ingin menambahkan Tugas 
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih Daftar Tugas 
+4. Pilih Tambah Tugas
+
+-User ingin menghapus Tugas
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih Daftar Tugas 
+4. Pilih Hapus Tugas
+
+-User ingin melihat Forum
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih Forum 
+
+-User ingin bertanya dalam Forum
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih Forum 
+4. Pilih Tanya tugas
+5. Tuliskan pertanyaan
+6. Pilih "Send"
+ 
+-User ingin bertanya pada AI mengenai tugas
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih AI
+4. Masukkan pertanyaan yang anda inginkan
+
+-User ingin mencari Teman belajar
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Tugas
+3. Pilih Ajak Teman
+4. Cari teman yang ada
+
+###Activities
+
+-User ingin masuk ke Menu Activities
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Activities
+
+-User ingin melihat Daftar Aktifitas
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Activities
+3. Pilih Daftar Aktifitas
+
+-User ingin menambahkan Aktifitas 
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Activities
+3. Pilih Daftar Aktifitas 
+4. Pilih Tambah Aktifitas
+
+-User ingin menghapus Aktifitas
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Activities
+3. Pilih Daftar Aktifitas 
+4. Pilih Hapus Aktifitas
+
+####Mood tracker
+-User ingin masuk ke Menu Mood Tracker 
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Mood tracker
+
+-User ingin Melihat My Journey 
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Mood tracker
+3. Pilih Bagian My Journey
+
+-User ingin Melihat Your Mood
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Mood tracker
+3. Pilih My Journey
+4. Pilih Your Mood
+5. Pilih Mood yang sesuai dengan perasaan hari ingin
+
+-User ingin Melihat Your Mood
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Mood tracker
+3. Pilih My Journey
+4. Pilih Diary 
+5. Isi Diary dengan segala keluh kesah 
+
+-User ingin melihat Daily Motivation 
+1. Buka Aplikasi Mental Health
+2. Pilih Bagian Mood tracker
+3. Pilih Daily Motivation

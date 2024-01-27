@@ -1,0 +1,29 @@
+Site Map:
+- Home
+
+    # Profile
+        -My Profile
+            -Update Profile
+        -Login
+        -Sign Up
+        -Logut
+
+    ## Tugas
+        - Daftar Tugas
+            - Tambah Tugas
+            - Hapus TUgas
+        - Forum
+            - Tanya Tugas
+        - AI
+        - Ajak Teman
+
+    ### Activities
+        - Daftar Aktifitas
+            - Tambah Aktifitas
+            - Hapus Aktifitas
+
+    #### Mood tracker
+        - My Journey
+            - Your Mood
+            - Diary
+        - Daily Motivation
